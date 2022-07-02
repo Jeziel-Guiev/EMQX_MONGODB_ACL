@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "62bfd9a104d05038b6dcdc35"
+  },
+  "username": "userA1",
+  "publish": [
+    "smarthome/+/temperature"
+  ],
+  "subscribe": [
+    "smarthome/+/data"
+  ],
+  "pubsub": [
+    "smarthome/+/humidity"
+  ]
+}]
